@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एलपीयू</string>
+    <string name="title_activity_main7">गतिविधि</string>
+    <string name="title_dashboard">डैश बोर्ड</string>
+    <string name="title_home">निवास</string>
+    <string name="title_notifications">" अधिसूचना"</string>
+</resources>
